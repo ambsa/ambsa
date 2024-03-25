@@ -11,9 +11,14 @@
     </p>
   
 ## Connect With Me ##
-<a href="https://www.instagram.com/pathlve/">
-<img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Logo Instagram" width="35" height="35">
+<a href="https://www.instagram.com/pathlve/" style="margin-right: 100px;">
+  <img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Logo Instagram" width="35" height="35">
 </a>
+
+<a href="https://www.linkedin.com/in/ahmad-fatah-324268226/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Logo LinkedIn" alt="Logo Linkedin" width="35" height="35">
+</a>
+
 
 
 
