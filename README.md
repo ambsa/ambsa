@@ -11,13 +11,26 @@
     </p>
   
 ## Connect With Me ##
-<a href="https://www.instagram.com/pathlve/" style="margin-right: 100px;">
-  <img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Logo Instagram" width="35" height="35">
+<a href="https://www.instagram.com/pathlve/">
+  <img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Logo Instagram" width="35" height="35" margin-right="100px">
 </a>
-
 <a href="https://www.linkedin.com/in/ahmad-fatah-324268226/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Logo LinkedIn" alt="Logo Linkedin" width="35" height="35">
 </a>
+
+## Tools ##
+<a href="https://www.figma.com/">
+  <img src="https://static.figma.com/app/icon/1/touch-180.png" alt="Logo Figma" width="50" height="50">
+</a>
+<a href="https://www.w3schools.com/html/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="Logo HTML" width="50" height="50">
+</a>
+<a href="https://www.php.net/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/220px-PHP-logo.svg.png" alt="Logo PHP" width="70" height="50">
+</a>
+
+
+
 
 
 
