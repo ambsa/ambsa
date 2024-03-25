@@ -11,8 +11,10 @@
     </p>
   
 ## Connect With Me ##
-<a href="https://www.instagram.com/pathlve/">link text</a>
-<img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Logo Instagram">
+<a href="https://www.instagram.com/pathlve/">
+<img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Logo Instagram" width="35" height="35">
+</a>
+
 
 
 
