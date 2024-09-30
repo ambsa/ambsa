@@ -6,8 +6,8 @@
 ## Profile Description ##
   <p align="justify" >
     Hi, Nama saya Ahmad Fatah Maulana sedang menempuh pendidikan pada Universitas Bina Insani.
-    Hobi yang digemari saat ini adalah futsalan (kalo pada hayu).
-    Tinggal di BSD (Bekasi Sonoan Dikit) AKA Bekasi Utara, Bulak Perwira.
+    Hobi yang digemari saat ini adalah futsal.
+    Berdomisili di bekasi.
     </p>
   
 ## Connect With Me ##
