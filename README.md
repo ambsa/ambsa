@@ -38,10 +38,10 @@
   <img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82?h=210" alt="Logo draw.io" width="60" height="50">
 </a>
 <a href="https://www.python.org/">
-  <img src="https://www.python.org/static/img/python-logo@2x.png" alt="Logo draw.io" width="60" height="50">
+  <img src="https://www.python.org/static/img/python-logo@2x.png" alt="Logo draw.io" width="150" height="50">
 </a>
 <a href="https://www.djangoproject.com/">
-  <img src="data:image/webp;base64,UklGRqgCAABXRUJQVlA4IJwCAAAwDgCdASo4ADgAPi0Ki0WhkNDM+BgCxLKAZRo1zGpZrezz6o5Sd6x8qulk+TOVVY6X+79SfQw9M+wP/Jv6X/tuAl/YAt0FiqlTj8L/3HZraDjvPg3tKY4tz3CbP3PldIcq0ilDFrhXXc+0tK12kQPeanA+pYD83B80AAD+/S+bf8W+0fxBaGqORmp0v/+gyPx5imn0ZlmIvOBltU5MS1iWYEQSQyYXHsA+/l5lV3y72XPahXSktVp8bu062DrQNPeVPB2uXuvG6xoSelGYLeHMEB76oD1/uqlEkm1EgJN4MahpI+AFq1KoS4Lel+d83sYFn+rpMSOjwXy66/YiGbL86p/bhTxjn036PxXKfsxEtPpM7zmDd7SLM+M71tu294NahP3oNmIGbRVstbKTd0J5GAkm806LzFj/5//gLvvCjZ/f9F//eRvTj6wxOV7lCf6mtpK18sMwiFo//LP6YegYTcceiieR3YnGGeJvDrOpPbYVPtWP05B5ff+7mqpIUKFZm8/WWsKnNEQf8w/vkcdF86PsJdBaOX/Rs7m33/zmCQbwpV1JmogALKc2xN5NAwSIdvQmx85ZAqvOKgcUIGt1Urpj9n1Nn2PU3Nu81pMDMtb5qPmG52tr/29wpeyYqGLtg03/5XGTt9OJ58H9oSeMR2PJI6OGytAzPVvR5oiXP/Z0nNu9OM1xGuEQZwXCbbJjzt9JsF1YJ/NX7Edo2/L/h8QQ7OqdNU4Zpb7LUMaIc5UHV2eIz1Jx/u8+t7P39/MFko6jLbJhQg8ryxOWjD1RY4UvgYiVZmelgoneWCf3Dv4MWx/OWqIb8+uv+0QIcHG/+Ys6Xz7a6HJ9xdUIhRCRYFA5PrSmcKyBtkwLE6cXIuJoFF6A9nKtIwAAAA==" alt="Logo draw.io" width="60" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" alt="Logo draw.io" width="130" height="50">
 </a>
 
 
