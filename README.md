@@ -5,9 +5,11 @@
 
 ## Profile Description ##
   <p align="justify" >
-    Hi, Nama saya Ahmad Fatah Maulana sedang menempuh pendidikan pada Universitas Bina Insani.
-    Hobi yang digemari saat ini adalah futsal.
-    Berdomisili di bekasi.
+     Saya adalah mahasiswa aktif dengan minat dan keterampilan kuat dalam pengembangan sistem, 
+     analisis masalah, operasi komputer, dan perancangan database. Saya terampil dalam berkomunikasi, 
+     mampu bekerja baik secara tim maupun individu, dan memiliki kemampuan pengambilan keputusan yang baik. 
+     Saya juga senang mempelajari hal baru. Dikenal sebagai pribadi yang kreatif, inovatif, dan berorientasi 
+     pada hasil, saya berkomitmen untuk membantu perusahaan mencapai tujuannya.
     </p>
   
 ## Connect With Me ##
