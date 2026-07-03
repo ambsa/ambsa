@@ -1,20 +1,28 @@
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea&color=100:764ba2&height=200&section=header&text=Ahmad%20Fatah%20Maulana&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=55" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff6f61&color=100:ffa500&height=220&section=header&text=Ahmad%20Fatah%20Maulana&fontSize=60&fontColor=ffffff&animation=glow&fontAlignY=55" alt="Ahmad Fatah Maulana" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=500&lines=IT+Support;Web+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1200&color=ff7f50&center=true&vCenter=true&width=520&lines=Retro+IT+Profile;IT+Support+%26+Web+Developer" alt="IT Support & Web Developer" />
 </h1>
 
 ---
 
-## 👋 Tentang Saya | About Me
+## 🌟 Profesional & Retro Profile
 
 <p align="justify">
-  Saya adalah IT Support Specialist dan Web Developer yang bersemangat dengan keahlian dalam <b>mengelola infrastruktur IT dan mengembangkan aplikasi web berkualitas</b>. Saya memiliki pengalaman mendalam dalam IT Support cross-platform (Windows, macOS, Ubuntu), network troubleshooting, dan web development menggunakan teknologi modern. Sebagai individu yang problem solver, komunikatif, dan adaptif, saya berkomitmen memberikan solusi teknis terbaik.
-  <br/><br/>
-  💡 <b>Keunggulan:</b> Problem Solving • Komunikasi Efektif • Teamwork • Adaptability • Time Management • Cross-Platform Expertise
+  Saya adalah IT Support Specialist & Web Developer dengan gaya presentasi profesional bernuansa retro. Menggabungkan keahlian teknis dan dokumentasi rapi untuk profil yang siap dipakai pada portofolio dan networking.
 </p>
+
+---
+
+## 🔧 Keunggulan Utama
+
+- ✅ Profesionalisme dalam dokumentasi dan presentasi
+- ✅ Pemecahan masalah teknis dengan pendekatan sistematis
+- ✅ Komunikasi yang jelas untuk tim dan pengguna akhir
+- ✅ Adaptif terhadap lingkungan kerja modern dan hybrid
+- ✅ Fokus pada kualitas dan keberlanjutan solusi
 
 ---
 
