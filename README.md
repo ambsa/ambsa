@@ -11,9 +11,9 @@
 ## 👋 Tentang Saya | About Me
 
 <p align="justify">
-  Saya adalah seorang developer yang bersemangat dengan keahlian kuat dalam <b>pengembangan sistem dan aplikasi web</b>. Saya memiliki pengalaman dalam menganalisis masalah, merancang solusi database yang efisien, dan mengoptimalkan operasi komputer. Sebagai individu yang kreatif, inovatif, dan berorientasi pada hasil, saya berkomitmen untuk memberikan solusi berkualitas tinggi.
+  Saya adalah IT Support Specialist dan Web Developer yang bersemangat dengan keahlian dalam <b>mengelola infrastruktur IT dan mengembangkan aplikasi web berkualitas</b>. Saya memiliki pengalaman mendalam dalam IT Support cross-platform (Windows, macOS, Ubuntu), network troubleshooting, dan web development menggunakan teknologi modern. Sebagai individu yang problem solver, komunikatif, dan adaptif, saya berkomitmen memberikan solusi teknis terbaik.
   <br/><br/>
-  💡 <b>Keunggulan:</b> Tim kolaborator yang baik • Komunikasi efektif • Problem solver • Learner yang cepat • Fokus pada hasil
+  💡 <b>Keunggulan:</b> Problem Solving • Komunikasi Efektif • Teamwork • Adaptability • Time Management • Cross-Platform Expertise
 </p>
 
 ---
@@ -22,19 +22,29 @@
 
 <div align="center">
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### IT Support & Infrastructure
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Google%20Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
-### Backend Development
+### Networking
+![MikroTik](https://img.shields.io/badge/MikroTik-CC0000?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Network%20Troubleshooting](https://img.shields.io/badge/Network%20Troubleshooting-4CAF50?style=for-the-badge)
+![LAN%20Setup](https://img.shields.io/badge/LAN%20Setup-2196F3?style=for-the-badge)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AppSheet](https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=appsheet&logoColor=white)
 
 </div>
 
@@ -43,18 +53,36 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambsa&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadfatah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfatah&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea" width="48%" />
 </div>
 
 ---
 
 ## 🎯 Fokus Utama | Main Focus
 
-- 🌐 **Web Application Development** - Membangun aplikasi web yang responsif dan user-friendly
-- 🗄️ **Database Design** - Merancang struktur database yang optimal dan efisien
-- 🔧 **System Development** - Mengembangkan sistem yang scalable dan maintainable
-- 📱 **Full Stack Solutions** - Menangani development dari frontend hingga backend
+### 💻 IT Support & Infrastructure
+- **Helpdesk Support** - Menyelesaikan ticket support dan memberikan bantuan teknis
+- **Cross-Platform Management** - Support Windows, macOS, Ubuntu, dan Google Workspace
+- **IT Asset Management** - Mengelola dan tracking aset IT perusahaan
+- **Infrastructure Setup** - Konfigurasi dan troubleshooting sistem infrastruktur
+
+### 🌐 Networking
+- **Network Troubleshooting** - Diagnosis dan solusi masalah jaringan
+- **MikroTik Configuration** - Setup dan konfigurasi router MikroTik
+- **LAN Infrastructure** - Pemasangan dan konfigurasi LAN cable & network hardware
+- **Proxmox Virtualization** - Management dan hosting virtual machines
+
+### 💾 Web Development
+- **Full Stack Web Development** - Membangun aplikasi web dengan Laravel, PHP, JavaScript
+- **Database Design** - Merancang dan mengoptimalkan database MySQL & PostgreSQL
+- **Responsive UI** - Membuat interface yang user-friendly dengan HTML, CSS, JavaScript
+- **AppSheet Development** - Membuat aplikasi bisnis dengan AppSheet
+
+### 📊 Additional Skills
+- **Spreadsheet Reporting** - Membuat laporan dan analytics menggunakan spreadsheet
+- **Problem Solving** - Analytical thinking untuk menyelesaikan masalah teknis kompleks
+- **Communication & Teamwork** - Kolaborasi efektif dengan tim dan stakeholder
 
 ---
 
