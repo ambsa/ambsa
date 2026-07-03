@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1200&color=ff7f50&center=true&vCenter=true&width=520&lines=Retro+IT+Profile;IT+Support+%26+Web+Developer" alt="IT Support & Web Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1200&color=ff7f50&center=true&vCenter=true&width=520&IT+Support+%26+Web+Developer" alt="IT Support & Web Developer" />
 </h1>
 
 ---
