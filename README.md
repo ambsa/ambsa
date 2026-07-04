@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0F766E&height=210&section=header&text=Ahmad%20Fatah%20Maulana&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=IT%20Support%20%7C%20Infrastructure%20%7C%20Web%20Development&descSize=16&descAlignY=58" alt="Ahmad Fatah Maulana — IT Support, Infrastructure, and Web Development" />
+  <img width="100%" src="https://chatgpt.com/s/m_6a49155a27b08191a50732ad2153e745" />
 
   <p>
     <a href="https://www.linkedin.com/in/ahmadfatahmaulana/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
