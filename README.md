@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="100%" src="https://chatgpt.com/s/m_6a49155a27b08191a50732ad2153e745" />
+  <img width="100%" src="./img/myimg.png" alt="Ahmad Fatah Maulana" />
 
   <p>
     <a href="https://www.linkedin.com/in/ahmadfatahmaulana/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
