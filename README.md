@@ -1,130 +1,84 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff6f61&color=100:ffa500&height=220&section=header&text=Ahmad%20Fatah%20Maulana&fontSize=60&fontColor=ffffff&animation=glow&fontAlignY=55" alt="Ahmad Fatah Maulana" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1200&color=ff7f50&center=true&vCenter=true&width=520&lines=Professional+Profile;IT+Support+%26+Web+Developer" alt="IT Support & Web Developer" />
-</h1>
-
----
-
-## 🌟 Profesional & Retro Profile
-
-<p align="justify">
-  Saya adalah IT Support Specialist & Web Developer dengan gaya presentasi profesional bernuansa retro. Menggabungkan keahlian teknis dan dokumentasi rapi untuk profil yang siap dipakai pada portofolio dan networking.
-</p>
-
----
-
-## 🔧 Keunggulan Utama
-
-- ✅ Profesionalisme dalam dokumentasi dan presentasi
-- ✅ Pemecahan masalah teknis dengan pendekatan sistematis
-- ✅ Komunikasi yang jelas untuk tim dan pengguna akhir
-- ✅ Adaptif terhadap lingkungan kerja modern dan hybrid
-- ✅ Fokus pada kualitas dan keberlanjutan solusi
-
----
-
-## 🛠️ Keahlian Teknis | Technical Skills
-
 <div align="center">
 
-### IT Support & Infrastructure
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Google%20Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0F766E&height=210&section=header&text=Ahmad%20Fatah%20Maulana&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=IT%20Support%20%7C%20Infrastructure%20%7C%20Web%20Development&descSize=16&descAlignY=58" alt="Ahmad Fatah Maulana — IT Support, Infrastructure, and Web Development" />
 
-### Networking
-![MikroTik](https://img.shields.io/badge/MikroTik-CC0000?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Network%20Troubleshooting](https://img.shields.io/badge/Network%20Troubleshooting-4CAF50?style=for-the-badge)
-![LAN%20Setup](https://img.shields.io/badge/LAN%20Setup-2196F3?style=for-the-badge)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![AppSheet](https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=appsheet&logoColor=white)
+  <p>
+    <a href="https://www.linkedin.com/in/ahmadfatahmaulana/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:fatahahmad907@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=ambsa&amp;style=flat-square&amp;color=0F766E&amp;label=Profile+views" alt="Profile views" />
+  </p>
 
 </div>
 
----
+## Tentang Saya
 
-## 📊 GitHub Statistics
+Saya adalah **IT Support Specialist** dan **Web Developer** yang berfokus pada penyelesaian masalah secara sistematis, dokumentasi yang rapi, dan solusi yang mudah dipelihara. Saya terbiasa menangani kebutuhan pengguna, infrastruktur, jaringan, serta pengembangan aplikasi web untuk mendukung proses bisnis.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadfatah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfatah&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea" width="48%" />
-</div>
+> Menghubungkan kebutuhan pengguna dengan solusi teknis yang stabil, efisien, dan mudah dipahami.
 
----
+## Professional Snapshot
 
-## 🎯 Fokus Utama | Main Focus
+| Area | Kompetensi |
+| :--- | :--- |
+| **IT Support** | Helpdesk, troubleshooting, asset management, dan dukungan lintas platform |
+| **Infrastructure** | Windows, macOS, Ubuntu, Google Workspace, dan Proxmox |
+| **Networking** | MikroTik, konfigurasi LAN, diagnosis, dan pemeliharaan jaringan |
+| **Web Development** | Laravel, PHP, JavaScript, responsive UI, dan REST-based application |
+| **Data & Tools** | MySQL, PostgreSQL, AppSheet, spreadsheet reporting, dan Git |
 
-### 💻 IT Support & Infrastructure
-- **Helpdesk Support** - Menyelesaikan ticket support dan memberikan bantuan teknis
-- **Cross-Platform Management** - Support Windows, macOS, Ubuntu, dan Google Workspace
-- **IT Asset Management** - Mengelola dan tracking aset IT perusahaan
-- **Infrastructure Setup** - Konfigurasi dan troubleshooting sistem infrastruktur
-
-### 🌐 Networking
-- **Network Troubleshooting** - Diagnosis dan solusi masalah jaringan
-- **MikroTik Configuration** - Setup dan konfigurasi router MikroTik
-- **LAN Infrastructure** - Pemasangan dan konfigurasi LAN cable & network hardware
-- **Proxmox Virtualization** - Management dan hosting virtual machines
-
-### 💾 Web Development
-- **Full Stack Web Development** - Membangun aplikasi web dengan Laravel, PHP, JavaScript
-- **Database Design** - Merancang dan mengoptimalkan database MySQL & PostgreSQL
-- **Responsive UI** - Membuat interface yang user-friendly dengan HTML, CSS, JavaScript
-- **AppSheet Development** - Membuat aplikasi bisnis dengan AppSheet
-
-### 📊 Additional Skills
-- **Spreadsheet Reporting** - Membuat laporan dan analytics menggunakan spreadsheet
-- **Problem Solving** - Analytical thinking untuk menyelesaikan masalah teknis kompleks
-- **Communication & Teamwork** - Kolaborasi efektif dengan tim dan stakeholder
-
----
-
-## 🔗 Terhubung Denganku | Connect With Me
+## Technical Toolkit
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadfatahmaulana/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pathlve/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,linux&theme=dark" alt="Operating systems: Windows, macOS, Ubuntu, and Linux" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel&theme=dark" alt="Web development: HTML, CSS, JavaScript, PHP, and Laravel" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode&theme=dark" alt="Tools: MySQL, PostgreSQL, Git, GitHub, and Visual Studio Code" />
+  </p>
+
 </div>
 
----
+## Yang Saya Kerjakan
 
-## 💬 Mari Berkolaborasi | Let's Collaborate
+- **Technical support** — mendiagnosis kendala hardware, software, akun, dan konektivitas pengguna.
+- **Infrastructure operations** — menyiapkan perangkat, sistem operasi, virtual machine, serta dokumentasi aset.
+- **Network support** — melakukan konfigurasi MikroTik, instalasi LAN, monitoring, dan troubleshooting jaringan.
+- **Web solutions** — membangun aplikasi responsif dengan Laravel, PHP, JavaScript, MySQL, dan PostgreSQL.
+- **Business automation** — menyederhanakan pelaporan dan alur kerja menggunakan AppSheet serta spreadsheet.
 
-Saya selalu terbuka untuk peluang menarik dan proyek yang menantang. Jangan ragu untuk menghubungi saya!
+## GitHub Activity
 
 <div align="center">
-  
-  **"Code is poetry, debugging is the art of reading it"** ✨
-  
+
+  <a href="https://github.com/ambsa">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ambsa&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=2DD4BF&amp;text_color=CBD5E1&amp;icon_color=5EEAD4&amp;ring_color=14B8A6" alt="Statistik GitHub Ahmad Fatah Maulana" />
+  </a>
+  <a href="https://github.com/ambsa?tab=repositories">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambsa&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=2DD4BF&amp;text_color=CBD5E1" alt="Bahasa pemrograman yang paling sering digunakan" />
+  </a>
+
+  <br />
+
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ambsa&amp;bg_color=0F172A&amp;color=CBD5E1&amp;line=14B8A6&amp;point=5EEAD4&amp;area=true&amp;hide_border=true" alt="Grafik kontribusi GitHub Ahmad Fatah Maulana" />
+
 </div>
 
+<sub>Catatan: statistik bahasa menunjukkan komposisi kode pada repositori publik, bukan tingkat kemahiran.</sub>
 
+## Mari Terhubung
 
+Saya terbuka untuk peluang di bidang **IT Support, Infrastructure, Networking,** dan **Web Development**, termasuk kolaborasi pada proyek yang memberikan dampak nyata bagi pengguna.
 
+<div align="center">
 
+  [LinkedIn](https://www.linkedin.com/in/ahmadfatahmaulana/) · [Email](mailto:fatahahmad907@gmail.com) · [GitHub](https://github.com/ambsa) · [Instagram](https://www.instagram.com/pathlve/)
 
+  <br />
 
+  <sub>Terima kasih telah mengunjungi profil saya.</sub>
 
-
-<!---
-ambsa/ambsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
