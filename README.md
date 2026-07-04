@@ -1,7 +1,7 @@
 <div align="center">
-
+<a href="#">
   <img width="100%" src="./img/myimg.png" alt="Ahmad Fatah Maulana" />
-
+</a>
   <p>
     <a href="https://www.linkedin.com/in/ahmadfatahmaulana/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:fatahahmad907@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
