@@ -75,22 +75,13 @@ Saya terbuka untuk peluang di bidang **IT Support, Infrastructure, Networking,**
 
 <div align="center">
 
-  <table align="center">
-    <tr>
-      <td>
-        <div><a href="https://www.linkedin.com/in/ahmadfatahmaulana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a></div>
-      </td>
-      <td>
-        <div><a href="mailto:fatahahmad907@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a></div>
-      </td>
-      <td>
-        <div><a href="https://github.com/ambsa"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a></div>
-      </td>
-      <td>
-        <div><a href="https://www.instagram.com/pathlve/"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a></div>
-      </td>
-    </tr>
-  </table>
+  <span><a href="https://www.linkedin.com/in/ahmadfatahmaulana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a></span>
+  &nbsp;&nbsp;
+  <span><a href="mailto:fatahahmad907@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a></span>
+  &nbsp;&nbsp;
+  <span><a href="https://github.com/ambsa"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a></span>
+  &nbsp;&nbsp;
+  <span><a href="https://www.instagram.com/pathlve/"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a></span>
 
 <br /><br />
 
