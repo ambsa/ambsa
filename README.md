@@ -18,13 +18,13 @@ Saya adalah **IT Support Specialist** dan **Web Developer** yang berfokus pada p
 
 ## Professional Snapshot
 
-| Area | Kompetensi |
-| :--- | :--- |
-| **IT Support** | Helpdesk, troubleshooting, asset management, dan dukungan lintas platform |
-| **Infrastructure** | Windows, macOS, Ubuntu, Google Workspace, dan Proxmox |
-| **Networking** | MikroTik, konfigurasi LAN, diagnosis, dan pemeliharaan jaringan |
-| **Web Development** | Laravel, PHP, JavaScript, responsive UI, dan REST-based application |
-| **Data & Tools** | MySQL, PostgreSQL, AppSheet, spreadsheet reporting, dan Git |
+| Area                | Kompetensi                                                                |
+| :------------------ | :------------------------------------------------------------------------ |
+| **IT Support**      | Helpdesk, troubleshooting, asset management, dan dukungan lintas platform |
+| **Infrastructure**  | Windows, macOS, Ubuntu, Google Workspace, dan Proxmox                     |
+| **Networking**      | MikroTik, konfigurasi LAN, diagnosis, dan pemeliharaan jaringan           |
+| **Web Development** | Laravel, PHP, JavaScript, responsive UI, dan REST-based application       |
+| **Data & Tools**    | MySQL, PostgreSQL, AppSheet, spreadsheet reporting, dan Git               |
 
 ## Technical Toolkit
 
@@ -75,21 +75,24 @@ Saya terbuka untuk peluang di bidang **IT Support, Infrastructure, Networking,**
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/ahmadfatahmaulana/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:fatahahmad907@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/ambsa">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/pathlve/">
-    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
-  </a>
+  <div>
+    <a href="https://www.linkedin.com/in/ahmadfatahmaulana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  </div>
+  <br />
+  <div>
+    <a href="mailto:fatahahmad907@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  </div>
+  <br />
+  <div>
+    <a href="https://github.com/ambsa"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  </div>
+  <br />
+  <div>
+    <a href="https://www.instagram.com/pathlve/"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+  </div>
 
-  <br /><br /><br /><br />
+<br /><br />
 
-  <sub>Terima kasih telah mengunjungi profil saya.</sub>
+<sub>Terima kasih telah mengunjungi profil saya.</sub>
 
 </div>
