@@ -74,21 +74,31 @@ Saya adalah **IT Support Specialist** dan **Web Developer** yang berfokus pada p
 Saya terbuka untuk peluang di bidang **IT Support, Infrastructure, Networking,** dan **Web Development**, termasuk kolaborasi pada proyek yang memberikan dampak nyata bagi pengguna.
 
 <div align="center">
-
+<p>
   <a href="https://www.linkedin.com/in/ahmadfatahmaulana/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:fatahahmad907@gmail.com">
+</p>
+<p>
+ <a href="mailto:fatahahmad907@gmail.com">
     <img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
+</p>
+<p>
   <a href="https://github.com/ambsa">
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/pathlve/">
+</p>
+
+ <p>
+<a href="https://www.instagram.com/pathlve/">
     <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
   </a>
+ </p>
 
-  <br />
+  
+
+  <br /><br /><br /><br />
 
   <sub>Terima kasih telah mengunjungi profil saya.</sub>
 
