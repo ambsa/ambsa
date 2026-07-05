@@ -55,10 +55,10 @@ Saya adalah **IT Support Specialist** dan **Web Developer** yang berfokus pada p
 <div align="center">
 
   <a href="https://github.com/ambsa">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ambsa&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=2DD4BF&amp;text_color=CBD5E1&amp;icon_color=5EEAD4&amp;ring_color=14B8A6" alt="Statistik GitHub Ahmad Fatah Maulana" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ambsa&amp;theme=github_dark" alt="Statistik GitHub Ahmad Fatah Maulana" />
   </a>
   <a href="https://github.com/ambsa?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambsa&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=2DD4BF&amp;text_color=CBD5E1" alt="Bahasa pemrograman yang paling sering digunakan" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ambsa&amp;theme=github_dark" alt="Bahasa pemrograman yang paling sering digunakan" />
   </a>
 
   <br />
