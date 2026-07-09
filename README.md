@@ -5,26 +5,25 @@
   <p>
     <a href="https://www.linkedin.com/in/ahmadfatahmaulana/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:fatahahmad907@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://komarev.com/ghpvc/?username=ambsa&amp;style=flat-square&amp;color=0F766E&amp;label=Profile+views" alt="Profile views" />
   </p>
 
 </div>
 
-## Tentang Saya
+## About Me
 
-Saya adalah **IT Support Specialist** dan **Web Developer** yang berfokus pada penyelesaian masalah secara sistematis, dokumentasi yang rapi, dan solusi yang mudah dipelihara. Saya terbiasa menangani kebutuhan pengguna, infrastruktur, jaringan, serta pengembangan aplikasi web untuk mendukung proses bisnis.
+I am an **IT Support Specialist** and **Web Developer** focused on systematic problem-solving, clear documentation, and maintainable solutions. I have experience supporting users, managing infrastructure and networks, and developing web applications that improve business processes.
 
-> Menghubungkan kebutuhan pengguna dengan solusi teknis yang stabil, efisien, dan mudah dipahami.
+> Bridging user needs with stable, efficient, and easy-to-understand technical solutions.
 
 ## Professional Snapshot
 
-| Area                | Kompetensi                                                                |
-| :------------------ | :------------------------------------------------------------------------ |
-| **IT Support**      | Helpdesk, troubleshooting, asset management, dan dukungan lintas platform |
-| **Infrastructure**  | Windows, macOS, Ubuntu, Google Workspace, dan Proxmox                     |
-| **Networking**      | MikroTik, konfigurasi LAN, diagnosis, dan pemeliharaan jaringan           |
-| **Web Development** | Laravel, PHP, JavaScript, responsive UI, dan REST-based application       |
-| **Data & Tools**    | MySQL, PostgreSQL, AppSheet, spreadsheet reporting, dan Git               |
+| Area                | Expertise                                                                     |
+| :------------------ | :---------------------------------------------------------------------------- |
+| **IT Support**      | Help desk, troubleshooting, asset management, and cross-platform support       |
+| **Infrastructure**  | Windows, macOS, Ubuntu, Google Workspace, and Proxmox                          |
+| **Networking**      | MikroTik, LAN configuration, diagnostics, and network maintenance              |
+| **Web Development** | Laravel, PHP, JavaScript, responsive UI, and REST-based applications           |
+| **Data & Tools**    | MySQL, PostgreSQL, AppSheet, spreadsheet reporting, and Git                    |
 
 ## Technical Toolkit
 
@@ -42,36 +41,44 @@ Saya adalah **IT Support Specialist** dan **Web Developer** yang berfokus pada p
 
 </div>
 
-## Yang Saya Kerjakan
+## What I Do
 
-- **Technical support** — mendiagnosis kendala hardware, software, akun, dan konektivitas pengguna.
-- **Infrastructure operations** — menyiapkan perangkat, sistem operasi, virtual machine, serta dokumentasi aset.
-- **Network support** — melakukan konfigurasi MikroTik, instalasi LAN, monitoring, dan troubleshooting jaringan.
-- **Web solutions** — membangun aplikasi responsif dengan Laravel, PHP, JavaScript, MySQL, dan PostgreSQL.
-- **Business automation** — menyederhanakan pelaporan dan alur kerja menggunakan AppSheet serta spreadsheet.
+- **Technical support** — diagnose hardware, software, account, and user connectivity issues.
+- **Infrastructure operations** — configure devices, operating systems, virtual machines, and asset documentation.
+- **Network support** — configure MikroTik devices, install LANs, monitor systems, and troubleshoot networks.
+- **Web solutions** — build responsive applications with Laravel, PHP, JavaScript, MySQL, and PostgreSQL.
+- **Business automation** — streamline reporting and workflows using AppSheet and spreadsheets.
 
 ## GitHub Activity
 
 <div align="center">
 
   <a href="https://github.com/ambsa">
-    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ambsa&amp;theme=github_dark" alt="Statistik GitHub Ahmad Fatah Maulana" />
+    <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambsa&amp;theme=github_dark" alt="Ahmad Fatah Maulana's GitHub profile summary" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://github.com/ambsa">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ambsa&amp;theme=github_dark" alt="Ahmad Fatah Maulana's GitHub statistics" />
   </a>
   <a href="https://github.com/ambsa?tab=repositories">
-    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ambsa&amp;theme=github_dark" alt="Bahasa pemrograman yang paling sering digunakan" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ambsa&amp;theme=github_dark" alt="Most frequently used programming languages" />
   </a>
 
   <br />
 
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ambsa&amp;bg_color=0F172A&amp;color=CBD5E1&amp;line=14B8A6&amp;point=5EEAD4&amp;area=true&amp;hide_border=true" alt="Grafik kontribusi GitHub Ahmad Fatah Maulana" />
+  <a href="https://github.com/ambsa">
+    <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ambsa&amp;bg_color=0F172A&amp;color=CBD5E1&amp;line=14B8A6&amp;point=5EEAD4&amp;area_color=14B8A6&amp;area=true&amp;hide_border=true&amp;custom_title=Ahmad%20Fatah%20Maulana%27s%20Contribution%20Graph" alt="Ahmad Fatah Maulana's live GitHub contribution graph" />
+  </a>
 
 </div>
 
-<sub>Catatan: statistik bahasa menunjukkan komposisi kode pada repositori publik, bukan tingkat kemahiran.</sub>
+<sub>Note: these cards are generated dynamically from the public activity and repositories of <a href="https://github.com/ambsa">@ambsa</a>. Language statistics represent repository code composition, not proficiency levels.</sub>
 
-## Mari Terhubung
+## Let's Connect
 
-Saya terbuka untuk peluang di bidang **IT Support, Infrastructure, Networking,** dan **Web Development**, termasuk kolaborasi pada proyek yang memberikan dampak nyata bagi pengguna.
+I am open to opportunities in **IT Support, Infrastructure, Networking,** and **Web Development**, as well as collaborations on projects that create meaningful value for users.
 
 <div align="center">
 
@@ -85,6 +92,6 @@ Saya terbuka untuk peluang di bidang **IT Support, Infrastructure, Networking,**
 
 <br /><br />
 
-<sub>Terima kasih telah mengunjungi profil saya.</sub>
+<sub>Thank you for visiting my profile.</sub>
 
 </div>
