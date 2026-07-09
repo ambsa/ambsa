@@ -54,7 +54,7 @@ I am an **IT Support Specialist** and **Web Developer** focused on systematic pr
 <div align="center">
 
   <a href="https://github.com/ambsa">
-    <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambsa&amp;theme=github_dark" alt="Ahmad Fatah Maulana's GitHub profile summary" />
+    <img width="92%" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambsa&amp;theme=github_dark&amp;v=2" alt="Ahmad Fatah Maulana's GitHub profile summary" />
   </a>
 
   <br /><br />
