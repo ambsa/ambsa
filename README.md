@@ -66,7 +66,7 @@ I am an **IT Support Specialist** and **Web Developer** focused on systematic pr
     <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ambsa&amp;theme=github_dark" alt="Most frequently used programming languages" />
   </a>
 
-  <br />
+  <br /><br />
 
   <a href="https://github.com/ambsa">
     <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ambsa&amp;bg_color=0F172A&amp;color=CBD5E1&amp;line=14B8A6&amp;point=5EEAD4&amp;area_color=14B8A6&amp;area=true&amp;hide_border=true&amp;custom_title=Ahmad%20Fatah%20Maulana%27s%20Contribution%20Graph" alt="Ahmad Fatah Maulana's live GitHub contribution graph" />
