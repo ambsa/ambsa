@@ -54,7 +54,7 @@ I am an **IT Support Specialist** and **Web Developer** focused on systematic pr
 <div align="center">
 
   <a href="https://github.com/ambsa">
-    <img width="92%" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambsa&amp;theme=github_dark&amp;v=2" alt="Ahmad Fatah Maulana's GitHub profile summary" />
+    <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ambsa&amp;bg_color=0D1117&amp;color=8B949E&amp;title_color=CBD5E1&amp;line=2F81F7&amp;point=58A6FF&amp;area_color=1F6FEB&amp;area=true&amp;hide_border=true&amp;custom_title=ambsa&amp;v=3" alt="ambsa GitHub contribution graph" />
   </a>
 
   <br /><br />
@@ -64,12 +64,6 @@ I am an **IT Support Specialist** and **Web Developer** focused on systematic pr
   </a>
   <a href="https://github.com/ambsa?tab=repositories">
     <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ambsa&amp;theme=github_dark" alt="Most frequently used programming languages" />
-  </a>
-
-  <br /><br />
-
-  <a href="https://github.com/ambsa">
-    <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ambsa&amp;bg_color=0F172A&amp;color=CBD5E1&amp;line=14B8A6&amp;point=5EEAD4&amp;area_color=14B8A6&amp;area=true&amp;hide_border=true&amp;custom_title=Ahmad%20Fatah%20Maulana%27s%20Contribution%20Graph" alt="Ahmad Fatah Maulana's live GitHub contribution graph" />
   </a>
 
 </div>
